@@ -1,0 +1,152 @@
+[
+    {
+        "namePath":"M553.6,186.4h45.5",
+        "pathId" : 51,
+        "text": "29"
+    },
+    {
+        "namePath":"M553.6,263h45.5",
+        "pathId" : 55,
+        "text": "30"
+    },
+    {
+        "namePath":"M553.6,336.6h45.5",
+        "pathId" : 56,
+        "text": "31"
+    },
+    {
+        "namePath":"M553.6,412.1h45.5",
+        "pathId" : 57,
+        "text": "32"
+    },
+    {
+        "namePath":"M553.6,487.8h45.5",
+        "pathId" : 58,
+        "text": "33"
+    },
+    {
+        "namePath":"M554.3,564.4h40.5",
+        "pathId" : 53,
+        "text": "34"
+    },
+    {
+        "namePath":"M106.6,186.4h45.5",
+        "pathId" : 30,
+        "text": "48"
+    },
+    {
+        "namePath":"M106.6,263h45.5",
+        "pathId" : 34,
+        "text": "47"
+    },
+    {
+        "namePath":"M106.6,336.6h45.5",
+        "pathId" : 35,
+        "text": "46"
+    },
+    {
+        "namePath":"M106.6,412.1h45.5",
+        "pathId" : 36,
+        "text": "45"
+    },
+    {
+        "namePath":"M106.6,487.8h45.5",
+        "pathId" : 37,
+        "text": "44"
+    },
+    {
+        "namePath":"M108.3,564.4h45.5",
+        "pathId" : 32,
+        "text": "43"
+    },
+    {
+        "namePath":"M485.4,272.3h61.4",
+        "pathId" : 59,
+        "text": "7"
+    },
+    {
+        "namePath":"M485.4,336.6h61.4",
+        "pathId" : 61,
+        "text": "8"
+    },
+    {
+        "namePath":"M485.4,410.8h61.4",
+        "pathId" : 60,
+        "text": "9"
+    },
+    {
+        "namePath":"M485.4,478.8h61.4",
+        "pathId" : 62,
+        "text": "10"
+    },
+    {
+        "namePath":"M159.7,272.3H231",
+        "pathId" : 38,
+        "text": "20"
+    },
+    {
+        "namePath":"M159.7,336.6H231",
+        "pathId" : 40,
+        "text": "19"
+    },
+    {
+        "namePath":"M159.7,410.8H231",
+        "pathId" : 39,
+        "text": "18"
+    },
+    {
+        "namePath":"M159.7,478.8H231",
+        "pathId" : 41,
+        "text": "17"
+    },
+    {
+        "namePath":"M218.4,278h54.5",
+        "pathId" : 42,
+        "text": "20A"
+    },
+    {
+        "namePath":"M218.4,314.7h54.5",
+        "pathId" : 43,
+        "text": "19B"
+    },
+    {
+        "namePath":"M218.4,352.4h54.5",
+        "pathId" : 44,
+        "text": "19A"
+    },
+    {
+        "namePath":"M218.4,396h54.5",
+        "pathId" : 45,
+        "text": "18B"
+    },
+    {
+        "namePath":"M218.4,436.7h54.5",
+        "pathId" : 46,
+        "text": "18A"
+    },
+    {
+        "namePath":"M218.4,471.4h54.5",
+        "pathId" : 47,
+        "text": "17A"
+    },
+    {
+        "namePath":"M432.9,278h53.5",
+        "pathId" : 63,
+        "text": "7A"
+    },
+    {
+        "namePath":"M432.9,314.7h53.5",
+        "pathId" : 64,
+        "text": "8A"
+    },
+    {
+        "namePath":"M432.9,436.7h53.5",
+        "pathId" : 62,
+        "text": "9B"
+    },
+    {
+        "namePath":"M432.9,471.4h53.5",
+        "pathId" : 67,
+        "text": "10A"
+    }
+]

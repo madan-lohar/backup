@@ -1,0 +1,102 @@
+    [
+        {
+            "namePath":"M280.2,180.2H342",
+     	
+             "text":"A"},
+
+		{
+            "namePath":"M328,180.2h41.2",
+     	
+             "text":"B"},
+
+		{
+            "namePath":"M370.8,185.3h33.3",
+     	
+             "text":"C"},
+
+
+		{
+            "namePath":"M400.3,265.1 485.7,265.1 	",
+     	
+             "text":"D"},
+
+		{
+            "namePath":"M400.3,308.2h86.4",
+     	
+             "text":"E"},
+
+		{
+            "namePath":"M400.3,343.9h86.4",
+     	
+             "text":"F"},
+
+		{
+            "namePath":"M400.3,392.9h86.4",
+     	
+             "text":"G"},
+
+		{
+            "namePath":"M400.3,443.9h86.4",
+     	
+             "text":"H"},
+
+		{
+            "namePath":"M377.9,530.3h39.5",
+     	
+             "text":"I"},
+
+		{
+            "namePath":"M329.1,535.8h42.7",
+     	
+             "text":"J"},
+		
+		{
+            "namePath":"M290.6,535.8h34.5",
+     	
+             "text":"K"},
+
+		{
+            "namePath":"M233.2,535.8H300",
+     	
+             "text":"L"},
+
+		{
+            "namePath":"M195.6,530.3h38",
+     	
+             "text":"M"},
+
+		{
+            "namePath":"M113.8,436.7H232",
+     	
+             "text":"N"},
+
+		{
+            "namePath":"M121.3,393.4h87.5",
+     	
+             "text":"O"},
+
+		{
+            "namePath":"M121.3,349.5h87.5",
+     	
+             "text":"P"},
+
+		{
+            "namePath":"M121.3,304.5h87.5",
+     	
+             "text":"Q"},
+
+		{
+            "namePath":"M121.3,262.5h87.5",
+     	
+             "text":"R"},
+
+		{
+            "namePath":"M206.3,185.8h32.4",
+     	
+             "text":"S"},
+
+		{
+            "namePath":"M239.5,180.2h42",
+     	
+             "text":"T"}
+    ]
