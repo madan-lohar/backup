@@ -1,0 +1,24 @@
+.st0{fill:#6F6E66;}
+	.st1{fill:#FBC213;}
+	.st2{fill:#C9D535;}
+	.st3{fill:#E71A83;}
+	.st4{fill:none;stroke:#CAD0D0;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:#169BD8;}
+	.st6{fill:#CDD735;}
+	.st7{fill:#92D4F3;}
+	.st9{fill:#CAD0D0;}
+	.st8{fill:#169BD8;}
+	.zoomed{border:#cccccc; stroke-width: 0.5;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	#seats{opacity: 0;}
+	 div{text-align: center; margin: 30px auto; }
+	.st9:hover{fill:#32CD32}
+	hr{display: none;}
+	
+	svg{    margin: 0 auto !important;
+		width: 500px;}
+	text{font-family: arial; font-size: 18px;}
+
+	svg > g{
+		transition: all .5s ease-out;
+	}
